@@ -1,9 +1,0 @@
-WorldVertextTransition
-{
-	$basetexture "snow"
-	$surfaceprop Snow
-
-	$basetexture2 "cobble"
-	$surfaceprop2 Stone
-	$bumpmap2 "bump_cobble"
-}
